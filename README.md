@@ -59,7 +59,8 @@ git clone https://github.com/devkupro/AleoAnimalRacing.git
 
 3. Marketplace NFT
 - Buy NFT
-![](assets/buy_nft.gif)
 
+![](assets/buy_nft.gif)
 - View NFT
+
 ![](assets/view_nft.gif)
